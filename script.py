@@ -26,7 +26,7 @@ Bot will automatically search for your file and give links to that!
 
     ABOUT_MSG = """⭕️<b>My Name : Dulquer◢ ◤</b>
     
-⭕️<b>Creater :</b>@NickxFury
+⭕️<b>Creater :</b> @NickxFury
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
