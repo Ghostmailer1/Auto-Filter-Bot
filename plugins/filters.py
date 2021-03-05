@@ -160,7 +160,7 @@ async def cb_handler(client: Bot, query:CallbackQuery):
             keyboard = InlineKeyboardMarkup([
                 [InlineKeyboardButton("HELP", callback_data="help_data"),
                     InlineKeyboardButton("ABOUT", callback_data="about_data")],
-                [InlineKeyboardButton("⭕️ JOIN OUR CHANNELS ⭕️", url="https://t.me/MOVIECLUB_LINKS")]
+                [InlineKeyboardButton("⭕️ JOIN OUR CHANNELS ⭕️", url="https://t.me/tvserieshome")]
             ])
 
             await query.message.edit_text(
